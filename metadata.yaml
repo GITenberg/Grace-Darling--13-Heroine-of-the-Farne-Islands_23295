@@ -1,0 +1,32 @@
+_repo: Grace-Darling--13-Heroine-of-the-Farne-Islands_23295
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Farningham, Marianne
+    aliases:
+    - Hearne, Mary Anne
+    - Hope, Eva
+    - Hearn, Mary Anne
+    birthdate: 1834
+    deathdate: 1909
+    gutenberg_agent_id: '25791'
+    url: http://www.gutenberg.org/2009/agents/25791
+description: ''
+gutenberg_issued: '2007-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Women heroes -- England -- Northumberland -- Biography'
+- !lcsh 'Darling, Grace, 1815-1842'
+- !lcc 'CT'
+title: Grace Darling, Heroine of the Farne Islands
+url: http://www.gutenberg.org/ebooks/23295
